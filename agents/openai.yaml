@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫剧剧本撰写与优化"
+  short_description: "梳理漫剧创意与故事圣经，并完成创作、续写、审稿、优化和生产适配"
+  default_prompt: "使用 $write-and-polish-manju-script 判断我的故事需求成熟度；信息不足时逐轮梳理大纲、世界观、角色关系与结局，信息明确时直接审核、创作或优化漫剧剧本。"
